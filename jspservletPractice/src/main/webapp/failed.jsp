@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+	rel="stylesheet">
+<script
+	src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<title>you are failed</title>
+</head>
+<body>
+<header style="background-color: blue; height: 38px"></header>
+	<hr>
+	<div class="container mt-4">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<img alt="" src="fail.jpg" style="height:100px">
+	<h4>You are failed  You are failed  You are failed  You are failed  You are failed  You are failed  You are failed</h4>
+	</div>
+</body>
+</html>
